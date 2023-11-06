@@ -6,3 +6,13 @@
 
 
 # Hardware And Software Requirement:
+
+
+## Hardware requirements:
+
+
+Processor: Intel Core i3 or above processor.
+
+Main Memory: 4 GB RAM minimum, 8 GB RAM recommended.
+
+Hard disk: 2 GB of available disk space minimum,4 GB Recommended
