@@ -16,3 +16,15 @@ Processor: Intel Core i3 or above processor.
 Main Memory: 4 GB RAM minimum, 8 GB RAM recommended.
 
 Hard disk: 2 GB of available disk space minimum,4 GB Recommended
+
+
+## Software Requirements:
+
+
+Software Used: PyCharm IDE, Sublime text editor, Mongo DB, Android Studio.
+
+OS: Windows-8 or Windows-10 and Android.
+
+Languages: Python, Android, JavaScript, HTML and CSS.
+
+Browser: Google Chrome, Internet Explorer, Mozilla Firefox.
